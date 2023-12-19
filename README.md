@@ -52,7 +52,7 @@
   </div>
 
   <script>
-    consoleText(['Haiii.', ':3 ', 'Laimiigus svetkus!!.'], 'text', ['tomato', 'rebeccapurple', 'lightblue']);
+    consoleText(['Haiii.', ':3 ', 'Laimiigus svetkus!!.'], 'text', ['green', 'blue', 'purple']);
 
     function consoleText(words, id, colors) {
       if (colors === undefined) colors = ['#fff'];
