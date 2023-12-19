@@ -26,7 +26,7 @@
       width: 800px;
       display: block;
       position: absolute;
-      color: white;
+      color: green;
       top: 0;
       bottom: 0;
       left: 0;
